@@ -27,9 +27,7 @@ export default function Home() {
 
       <CurrentlyLearning />
 
-      <Projects />
 
-      <CurrentlyLearning />
 
       <GithubStats />
 
